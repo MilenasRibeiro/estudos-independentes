@@ -1,2 +1,2 @@
-# estudos-independentes
-Projeto desafio
+# Projeto Bootcamp
+Projeto de desafio do Bootcamp Spread Fullstack Developer
